@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Dario</h1>
 <ul>
 <li> 👀 I’m interested in Games</li>
-<li>🌱 I’m currently learning Docker, Windows API, PHP, SQL</li>
+<li>🌱 I’m currently learning PHP, SQL</li>
 <li>💞️ I’m looking to collaborate on Games</li>
 </ul>
 
